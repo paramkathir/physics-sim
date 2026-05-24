@@ -1,0 +1,3 @@
+C:/Users/param_1por2y2/OneDrive/Documents/physics-sim/build/CMakeFiles/PhysicsSim.dir
+C:/Users/param_1por2y2/OneDrive/Documents/physics-sim/build/CMakeFiles/edit_cache.dir
+C:/Users/param_1por2y2/OneDrive/Documents/physics-sim/build/CMakeFiles/rebuild_cache.dir
